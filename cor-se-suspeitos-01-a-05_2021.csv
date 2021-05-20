@@ -1,0 +1,17 @@
+MORTALIDADE GERAL EXCETO CAUSAS EXTERNAS
+Óbitos Residentes MSP por Semana epidemiológica segundo Cor
+Óbitos por Covid 19: Óbitos provavelmente por COVID 19, Óbitos confirmados de COVID 19
+Mês do Óbitos: Janeiro, Fevereiro, Março, Abril, Maio
+Período: 2021
+"Cor";"SE 21 01";"SE 21 02";"SE 21 03";"SE 21 04";"SE 21 05";"SE 21 06";"SE 21 07";"SE 21 08";"SE 21 09";"SE 21 10";"SE 21 11";"SE 21 12";"SE 21 13";"SE 21 14";"SE 21 15";"SE 21 16";"SE 21 17";"SE 21 18";"SE 21 19";"Total"
+"Branca";338;355;377;357;345;316;276;352;484;657;1066;371;1264;1017;839;719;589;412;68;10202
+"Preta";38;55;62;49;52;33;38;49;64;100;181;59;194;157;131;109;75;83;8;1537
+"Amarela";10;12;5;15;11;8;4;10;19;15;56;13;47;34;27;21;19;6;-;332
+"Parda";93;104;107;125;128;73;91;111;152;218;350;125;450;421;355;263;226;193;30;3615
+"Indígena";-;-;1;-;1;-;-;1;1;-;1;2;3;2;1;1;-;4;-;18
+"Não informado";20;14;14;13;15;17;10;15;22;22;48;15;57;55;41;34;15;14;-;441
+"Total";499;540;566;559;552;447;419;538;742;1012;1702;585;2015;1686;1394;1147;924;712;106;16145
+Fonte: Sistema de Informações sobre Mortalidade – SIM/PRO-AIM/CEInfo – SMS/SP. Data de atualização: 13/05/2021.
+Nota:
+1- Para tabulações de proporções, o campo referente à proporção deve constar em linhas ou colunas.
+2- Em acordo com orientação do Ministério da Saúde de 20/03/2020, o código U04.9 foi utilizado como marcador dos casos suspeitos de COVID 19 e o código B34.2 foi utilizado para casos confirmados da doença.

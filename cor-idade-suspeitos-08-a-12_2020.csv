@@ -1,0 +1,17 @@
+MORTALIDADE GERAL EXCETO CAUSAS EXTERNAS
+Óbitos Residentes MSP por Fx etária de 5 em 5 anos segundo Cor
+Óbitos por Covid 19: Óbitos provavelmente por COVID 19, Óbitos confirmados de COVID 19
+Mês do Óbitos: Agosto, Setembro, Outubro, Novembro, Dezembro
+Período: 2020
+"Cor";"0-4a";"5-9a";"10-14a";"15-19a";"20-24a";"25-29a";"30-34a";"35-39a";"40-44a";"45-49a";"50-54a";"55-59a";"60-64a";"65-69a";"70-74a";"75 e mais";"Ign";"Total"
+"Branca";1;4;2;3;17;16;37;51;77;93;154;245;387;535;622;2445;-;4689
+"Preta";-;-;-;1;1;2;3;18;20;31;30;52;74;78;82;244;1;637
+"Amarela";-;-;-;-;-;-;-;-;1;4;2;5;5;12;22;147;-;198
+"Parda";6;-;1;4;4;11;27;26;50;72;95;114;176;224;205;521;-;1536
+"Indígena";-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;2;-;4
+"Não informado";1;-;-;-;1;-;-;3;3;3;9;19;27;26;22;105;-;219
+"Total";8;4;3;8;23;29;67;98;151;203;290;435;669;876;954;3464;1;7283
+Fonte: Sistema de Informações sobre Mortalidade – SIM/PRO-AIM/CEInfo – SMS/SP. Data de atualização: 13/05/2021.
+Nota:
+1- Para tabulações de proporções, o campo referente à proporção deve constar em linhas ou colunas.
+2- Em acordo com orientação do Ministério da Saúde de 20/03/2020, o código U04.9 foi utilizado como marcador dos casos suspeitos de COVID 19 e o código B34.2 foi utilizado para casos confirmados da doença.

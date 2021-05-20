@@ -1,0 +1,17 @@
+MORTALIDADE GERAL EXCETO CAUSAS EXTERNAS
+Óbitos Residentes MSP por Semana epidemiológica segundo Cor
+Óbitos por Covid 19: Óbitos provavelmente por COVID 19, Óbitos confirmados de COVID 19
+Mês do Óbitos: Agosto, Setembro, Outubro, Novembro, Dezembro
+Período: 2020
+"Cor";"SE 20 32";"SE 20 33";"SE 20 34";"SE 20 35";"SE 20 36";"SE 20 37";"SE 20 38";"SE 20 39";"SE 20 40";"SE 20 41";"SE 20 42";"SE 20 43";"SE 20 44";"SE 20 45";"SE 20 46";"SE 20 47";"SE 20 48";"SE 20 49";"SE 20 50";"SE 20 51";"SE 20 52";"SE 20 53";"Total"
+"Branca";378;334;283;301;239;240;212;164;176;138;106;92;105;105;137;159;192;228;262;302;284;284;4721
+"Preta";41;52;43;28;35;31;34;27;23;19;20;18;9;14;16;16;30;27;40;39;44;38;644
+"Amarela";18;11;11;11;11;11;6;5;5;4;6;4;6;2;6;10;9;8;11;11;15;20;201
+"Parda";143;130;104;88;81;85;66;53;55;56;47;31;37;36;42;48;51;76;66;84;80;84;1543
+"Indígena";-;-;-;-;-;1;-;1;-;-;-;-;-;1;-;-;-;-;1;-;-;-;4
+"Não informado";14;26;12;12;18;7;9;8;11;5;7;6;7;3;3;1;7;8;15;16;11;11;217
+"Total";594;553;453;440;384;375;327;258;270;222;186;151;164;161;204;234;289;347;395;452;434;437;7330
+Fonte: Sistema de Informações sobre Mortalidade – SIM/PRO-AIM/CEInfo – SMS/SP. Data de atualização: 13/05/2021.
+Nota:
+1- Para tabulações de proporções, o campo referente à proporção deve constar em linhas ou colunas.
+2- Em acordo com orientação do Ministério da Saúde de 20/03/2020, o código U04.9 foi utilizado como marcador dos casos suspeitos de COVID 19 e o código B34.2 foi utilizado para casos confirmados da doença.
